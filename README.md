@@ -3,7 +3,6 @@
 
 Hi! This is the documentation of the RoomEase app.
 
-----------------------
 ## USER
 
 ### Description of the Project:
@@ -63,8 +62,6 @@ It would be helpful, for us and for you, to consult a guide on how to write a go
 
 
 
-
----------------------------
 ## DEVELOPER
 
 ### Obtaining source code:
