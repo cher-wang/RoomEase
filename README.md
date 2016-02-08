@@ -1,7 +1,7 @@
 # RoomEase
 ==========
 
-Hi! This is the documentation of the RoomEase app.
+These are the build instructions for the RoomEase app.
 
 ## USER
 
