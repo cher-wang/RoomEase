@@ -1,5 +1,5 @@
-# RoomEase: making things easy for college kids
-===============================================
+# RoomEase
+==========
 
 Hi! This is the documentation of the RoomEase app.
 
