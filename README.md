@@ -5,7 +5,6 @@ Hi! This is the documentation of the RoomEase app.
 
 ----------------------
 ## USER
-----------------------
 
 ### Description of the Project:
 RoomEase is a roommate communication app that makes communicating with roommates and managing your household a lot easier. It provides five main features: reserving household items or places at certain times, writing shared lists among roommates, managing fridge content, scheduling chores, and a reminders feed. We are well ahead of our competitors because of our cross-platform compatibility, by being an all-in-one app, and for the uniqueness of the features we support. 
@@ -67,7 +66,6 @@ It would be helpful, for us and for you, to consult a guide on how to write a go
 
 ---------------------------
 ## DEVELOPER
----------------------------
 
 ### Obtaining source code:
 
